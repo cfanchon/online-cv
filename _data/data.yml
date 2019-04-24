@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: claire.fanchon@gmail.com
     phone: 06 22 91 38 72
-    linkedin: alandoe
+    linkedin: cfanchon
 
     languages:
       - idiom: Français
@@ -55,21 +55,21 @@ experiences:
       time: Depuis mai 2018
       company: LCL
       details: |
-        TO DO
+        details à écrire
 
     - role: Conseillere privée, Suresnes
       time: 2013 - 2018
       company: LCL
       details: |
-        TO DO
+        details à écrire
 
     - role: Conseillère clientèle de particuliers, Corbie
       time: 2012 - 2013
       company: Crédit Mutuel
       details: |
-        TO DO
+        details à écrire
 
-    - role: Assistante chargée de clientèle sur le marché des particuliers et des professionnels, Saint Quentin
+    - role: Assistante chargée de clientèle, Saint Quentin
       time: 2010 - 2012
       company: Crédit Mutuel
       details: |
@@ -101,20 +101,11 @@ skills:
     title: Compétences
 
     toolset:
-      - name: Solution d'investissement
-        level: 98%
-
-      - name: Suivi et accompagnement des clients
-        level: 98%
-
-      - name: Placement en Unité de compte
+      - name: Financement patrimoniaux 
         level: 90%
 
-      - name: 
-        level: 80%
+      - name: Développement de la base client et de la rentabilité des opérations
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Analyse patrimoniale
+        level: 90%
